@@ -1,0 +1,1 @@
+this small project is using esp32 to scan nearby wifi - 2.4Ghz only. On start, it will scan for 10s, if there's no wifi have been known to connect. It will change to AP mode (you can see its wifi but there's no data to transfer).
